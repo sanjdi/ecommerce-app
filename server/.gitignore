@@ -5,5 +5,3 @@ node_modules
 
 # misc
 .env
-package-lock.json
-
