@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "nodemon ./api/api.jS",
     "start": "node ./api/api.js",
-    "lint": "echo \"Note: no lint specified\"",
-    "test": "echo \"Note: no test specified\""
+    "lint": "echo \"Note: no lint specified!\"",
+    "test": "echo \"Note: no test specified!\""
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
