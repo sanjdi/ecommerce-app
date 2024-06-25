@@ -29,7 +29,7 @@ router.post(
     const { name, email, password } = req.body;
 
     const temp = 0;
-    // console.log(temp);
+    console.log(temp);
 
     try {
       let user = await User.findOne({ email });
